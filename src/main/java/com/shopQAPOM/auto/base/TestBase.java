@@ -18,6 +18,7 @@ public class TestBase {
 	public static Properties prop;
 	
 	//Constructor for Parent class
+	// Test Base Class is a parent for all classes
 	public TestBase() {
 		try {
 			prop = new Properties();
